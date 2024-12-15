@@ -1,3 +1,5 @@
+You must make sure your OpenAI account has at least $5 on it to use this. This is not the same as having a subscription to ChatGPT, you must go to https://platform.openai.com/settings/organization/billing/overview and add a credit balance there to use it or you'll get a "quota limit" error.
+
 Edit the config to include the following:
 
 your openai api key
